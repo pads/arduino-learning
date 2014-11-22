@@ -10,5 +10,5 @@ File -> Examples -> Firmata menu
 
 Then setup the project:
 
-  npm install
-  node temp-and-light.js
+    npm install
+    node temp-and-light.js
